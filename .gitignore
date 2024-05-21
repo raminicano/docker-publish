@@ -4,3 +4,13 @@
 
 # nodejs node_modules
 **/node_modules
+
+# secret file
+secret.json
+
+# install
+package-lock.json
+
+# json파일
+./package.json
+*.json
